@@ -1,0 +1,15 @@
+# Private - never committed, never leaves this machine
+corpus/
+persona/samples/*
+!persona/samples/README.md
+.env
+
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+.env.local
+.DS_Store
